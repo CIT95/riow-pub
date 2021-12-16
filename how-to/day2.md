@@ -1,3 +1,5 @@
+# This file has not been update for the Spring 2022 yet - HEADS UP
+
 # Day 2
 In your 100days folder create a new folder named day2 and in that folder create a new file named readme.md.
 
