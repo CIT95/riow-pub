@@ -20,9 +20,9 @@ Write down a few of your thoughts about the day's goals in your readme.md.
 ## Video 6
 Following along with the video 
 
-repl.it - create your repl.it account and fork the assignment and code along with Dr. Angela, once you have working work then create a file in the github interface in day1 folder named main.py and copy your code into that file. 
+replit.com - create your replit.com account and fork the assignment and code along with Dr. Angela, once you have working work then create a file in the github interface in day1 folder named main.py and copy your code into that file. 
 
-local - create a new file in this folder and name it main.py and copy the starting code from the repl.it.
+local - create a new file in this folder and name it main.py and copy the starting code from the replit.com.
 
 In your readme.md under this video heading write something like "code runs successfully without error and new python file created".  
 
