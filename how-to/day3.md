@@ -21,7 +21,7 @@ Create a ex2.py in this folder and then copy the starting code from the replit.c
 Create a ex3.py in this folder and then copy the starting code from the replit.com site and watch the video to the understand the coding challenge. Stop the video before the solution and write your attempt the coding challenge, once you having working code or you want to see the solution commit your code with message "My Code ex3", then watch the solution and code along, make sure you comments the solution code so both of us can clearly see your code vs the solution code. 
 
 # Video 34
-Code along in the main.py file and after you get working code complete then commit with message "Video 34 code". Include a comment do you can see the code associated with this video.
+Code along in the main.py file and after you get working code complete then commit with message "Video 34 code". Include a comment so you and I can see the code associated with this video.
 
 # Video 35
 Create a ex4.py in this folder and then copy the starting code from the replit.com site and watch the video to the understand the coding challenge. Stop the video before the solution and write your attempt the coding challenge, once you having working code or you want to see the solution commit your code with message "My Code ex4", then watch the solution and code along, make sure you comments the solution code so both of us can clearly see your code vs the solution code. 
@@ -36,4 +36,5 @@ Create a ex5.py in this folder and then copy the starting code from the replit.c
 Create a final.py in this folder and then copy the starting code from the replit.com site and watch the video to the understand the coding challenge. Stop the video before the solution and write your attempt the coding challenge, once you having working code or you want to see the solution commit your code with message "Day 3 Final Project", then watch the solution and update your code as needed.
 
 # Video 39
-Watch this and consider copy your final.py in a folder in your public repo and share the github URL in discord.  
+Watch this and consider copying your final.py in a folder in your public repo and share the github URL in discord.
+  
