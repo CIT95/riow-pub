@@ -36,7 +36,7 @@ Code along with the video in a new file named ex1.py.
 
 Do make sure you comment to show your code for the challenge and then comment to show the solution code from Dr. Angela.
 
-In you readme.md write soemthing like "First Coding Exercise complete", you can also write anything you want me to know about getting this work done.
+In you readme.md write something like "First Coding Exercise complete", you can also write anything you want me to know about getting this work done.
 
 Commit your changes with the message "First coding challenge"
 
@@ -47,7 +47,7 @@ Code along with Dr. Angela in your main.py use comments to show the new code. Li
 ## Video 10
 Create a new file named ex2.py, make sure you include comments to show your code and then comment to show the solution code.  
 
-Once your code is running without error commit your code with "Third coding challenge".
+Once your code is running without error commit your code with "Second coding challenge".
 
 ## Video 11
 You can comment out the all the code in your main.py and then code along with Dr Angela and at the end commit with message "Video 11"
