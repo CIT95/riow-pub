@@ -76,3 +76,6 @@ Create a new file named final.py and add comment to comments to show your code a
 
 ## Video 17
 Just make a short comment in you readme.md about completing this work.
+
+## MAKE SURE 
+Make sure you submit your commit history URL in canvas for this item.  
