@@ -5,7 +5,7 @@ In your 100days folder create a new folder named day4 and in that folder create 
 Watch the video, no output required
 
 # Video 41
-Create a new python file in your day3 folder and name it main.py and copy the starting code (or write it) into this file and then code along with Dr. Angela.  
+Create a new python file in your day4 folder and name it main.py and copy the starting code (or write it) into this file and then code along with Dr. Angela.  
 
 Also makes some notes in this file about random and modules.  Create the mymodule.py, after you get working code, complete the git workflow with commit message "Video 41 code"
 
