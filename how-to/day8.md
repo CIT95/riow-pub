@@ -26,7 +26,9 @@ Remove the code from Video 85 and copy the starting copy and then watch to the p
 Remove the code from Video 86 and copy the starting copy and then watch to the point of understanding the challenge and then stop attempt the code, once you are done or ready to move on commit your code with "My Code Part 3". Did you find the bug?
 
 # Video 88
-Remove the code from Video 85 and copy the starting copy and then watch to the point of understanding the challenge and then stop attempt the code, once you are done or ready to move on commit your code with "My Code Part 4". Interesting solution! Also make sure you fix the PEP8 issues on this one! 
+Copy the art.py into you this folder and remove the code from Video 85 and copy the starting copy and then watch to the point of understanding the challenge and then stop attempt the code, once you are done or ready to move on commit your code with "My Code Part 4". Interesting solution! Also make sure you fix the PEP8 issues on this one! 
 
 # Video 89
 Tell me in your readme.md what motivates you?
+
+# Make sure to submit your work with you commit history!
