@@ -10,11 +10,10 @@ https://docs.python.org/3/library/venv.html
     <code>source dirname/bin/activate </code>      
     You know it worked if you terminal changes to the name of the virtual environment
 4. Install libraries that your code will require. </br>
-    I'll install https://pypi.org/project/pyfiglet/0.7/
+    I'll install <code> python -m pip install -U prettytable </code>
     Write your own code
 5. Freeze and create requirements.txt
     Once all your coding is complete and you are ready to share your code do this step.<br>
-
     <code>pip freeze > requirements.txt</code>
 6. Deactivate <br>
     <code>deactivate</code>
