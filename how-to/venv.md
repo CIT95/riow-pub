@@ -5,7 +5,7 @@ https://docs.python.org/3/library/venv.html
 
 1.  Create a new virtual environment inside the directory
     <code>python3 -m venv dirname</code>
-2. add .gitignore <br>in the dirname and place * in that file to not have any of the files tracked int his folder    
+2. In your existing .gitignore add venv to the end of the file.     
 3. Activate virtual enivornment</br>
     <code>source dirname/bin/activate </code>      
     You know it worked if you terminal changes to the name of the virtual environment
