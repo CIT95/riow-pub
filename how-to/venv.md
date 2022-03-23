@@ -4,10 +4,12 @@ https://docs.python.org/3/library/venv.html
 ## Developer Steps 
 
 1.  Create a new virtual environment inside the directory
-    <code>python3 -m venv dirname</code>
+    <code>python3 -m venv dirname</code> or windows
+
 2. In your existing .gitignore add venv to the end of the file.     
 3. Activate virtual enivornment</br>
-    <code>source dirname/bin/activate </code>      
+    <code>source dirname/bin/activate </code> 
+    For windows users - https://mothergeo-py.readthedocs.io/en/latest/development/how-to/venv-win.html
     You know it worked if you terminal changes to the name of the virtual environment
 4. Install libraries that your code will require. </br>
     I'll install <code> python -m pip install -U prettytable </code>
